@@ -74,6 +74,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+
 # L32002072
 # DATABASES = {
 #     'default': {
